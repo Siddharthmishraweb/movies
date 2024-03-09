@@ -1,0 +1,25 @@
+.review-card {
+    margin: 10px 0;
+    padding: 20px;
+    border: 1px solid #C3CFD9;
+}
+
+.comment {
+    font-weight: bold;
+}
+
+.rating {
+    font-style: italic;
+    float: right;
+    color:#6558F5;
+}
+
+.reviewer {
+    margin-top: 5px;
+    font-size: 12px;
+}
+
+.spanClass{
+    display: flex;
+    justify-content: space-between;
+}

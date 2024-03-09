@@ -1,0 +1,18 @@
+.movie-details {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #C3CFD9;
+}
+
+.movie-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.rating {
+    font-size: 18px;
+}
+
+.reviews {
+    margin-top: 20px;
+}

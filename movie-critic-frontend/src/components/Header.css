@@ -1,0 +1,32 @@
+
+.header {
+    background-color: #E3E8ED;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.header-buttons button {
+    margin-left: 10px;
+}
+
+.outlined-button {
+    border: 2px solid #9288F8;
+    color: #9288F8;
+    padding: 8px 16px;
+    background: none;
+    cursor: pointer;
+}
+
+.contained-button {
+    background-color: #9288F8;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
